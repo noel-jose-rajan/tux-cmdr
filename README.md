@@ -1,7 +1,3 @@
-Absolutely! Here’s a clean, eye-catching README template for your simple terminal C game. You can customize it further if you want.
-
----
-
 # Simple Terminal Game in C
 
 A fun and lightweight terminal-based game written in C. Move your character around the box using **WASD** keys and enjoy some classic console action!
@@ -85,7 +81,3 @@ This project is licensed under the MIT License — feel free to use and modify i
 ## Contributions
 
 Contributions and improvements are welcome! Feel free to open issues or pull requests.
-
----
-
-If you want, I can also help you generate a GitHub README markdown file or add badges and emojis!
