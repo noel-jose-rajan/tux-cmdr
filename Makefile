@@ -1,8 +1,9 @@
-main:main.c
-	gcc main.c -o main
+all: main
+
+main: main.c
+	gcc main.c -o ./build/main
 
 clean:
-	rm main 
-	clear
+	rm -f ./build/main
 
-.PHONY: clean
+.PHONY: all clean
